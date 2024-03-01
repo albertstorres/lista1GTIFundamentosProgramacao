@@ -7,5 +7,5 @@ salario_aumento = salario * 1.15
 salario_final = salario_aumento * 0.92
 
 print(f"Salário inicial: R$ {salario}")
-print(f"Salário com aumento: r$ {salario_aumento}")
+print(f"Salário com aumento: R$ {salario_aumento}")
 print(f"Salario final: R$ {salario_final}")
